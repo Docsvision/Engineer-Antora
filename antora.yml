@@ -1,6 +1,5 @@
 name: engineer
-version: 'dev'
-display_version: 'dev'
+version: 'm4d-scenarios'
 prerelease: true
 title: Настройка системы
 asciidoc:
